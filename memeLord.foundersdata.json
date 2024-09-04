@@ -1,0 +1,4534 @@
+[{
+  "_id": {
+    "$oid": "66b2017b48223e6b0c3a48bd"
+  },
+  "address": "0x1d1024ecC799390aB8D714409999d9D31CE93B20",
+  "totalBuys": 23087,
+  "directBuys": 0,
+  "joinedAt": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:03.906Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xD4b7d3F499CcA82c009A0333Ca7120a700f6e5d7",
+      "_id": {
+        "$oid": "66bc6184c23e0fb50a6c93ed"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-07-28T10:00:06.000Z"
+      }
+    }
+  ],
+  "__v": 80,
+  "level1Buys": 1000
+},
+{
+  "_id": {
+    "$oid": "66b201b448223e6b0c3a48c1"
+  },
+  "address": "0xD4b7d3F499CcA82c009A0333Ca7120a700f6e5d7",
+  "totalBuys": 22137,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-07-28T10:00:06.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": false,
+  "rewardAmount": 50,
+  "rewardAt": {
+    "$date": "2024-08-06T10:00:06.000Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:03.969Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x7930ee9492a690404e67b97630a5Fc5B55cCab0B",
+      "_id": {
+        "$oid": "66bc61dac23e0fb50a6c9482"
+      },
+      "rank": "Co-Founder",
+      "totalTokensBoughtUsd": 500,
+      "joinedAt": {
+        "$date": "2024-07-28T10:17:17.000Z"
+      }
+    },
+    {
+      "address": "0x12ec081563895E0fe83CBbD043ebe8822ce9AfDD",
+      "_id": {
+        "$oid": "66bc61dac23e0fb50a6c9483"
+      },
+      "rank": null,
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T10:53:41.000Z"
+      }
+    }
+  ],
+  "__v": 79,
+  "awardedByAdmin": 391,
+  "level1Buys": 600
+},
+{
+  "_id": {
+    "$oid": "66b201c048223e6b0c3a48c6"
+  },
+  "address": "0x7930ee9492a690404e67b97630a5Fc5B55cCab0B",
+  "totalBuys": 350,
+  "directBuys": 500,
+  "joinedAt": {
+    "$date": "2024-07-28T10:17:17.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 17,
+  "rewardAt": {
+    "$date": "2024-08-06T10:17:17.000Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.013Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x00399dBA9105df004eC9977D73743D9Aa1A585Fc",
+      "_id": {
+        "$oid": "66bc61edc23e0fb50a6c95ab"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T18:30:28.000Z"
+      }
+    },
+    {
+      "address": "0x434d01078bf3B77F0487de9BaF51C2d5AF369231",
+      "_id": {
+        "$oid": "66bc61edc23e0fb50a6c95ac"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T03:57:31.000Z"
+      }
+    },
+    {
+      "address": "0x1E28273E4e46a24276ab5bd813D8523Ff66AAAd8",
+      "_id": {
+        "$oid": "66bc61edc23e0fb50a6c95ad"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-01T13:47:57.000Z"
+      }
+    },
+    {
+      "address": "0x3e9547c398a98b3eF1BDFCd2F89f1122265d1022",
+      "_id": {
+        "$oid": "66bc61edc23e0fb50a6c95ae"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 0,
+      "joinedAt": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      }
+    },
+    {
+      "address": "0x205244383dA6BCEc43f47A2bf186EdcE5fD4A859",
+      "_id": {
+        "$oid": "66bc61edc23e0fb50a6c95af"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-01T16:13:03.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 300
+},
+{
+  "_id": {
+    "$oid": "66b201c948223e6b0c3a48ce"
+  },
+  "address": "0x00399dBA9105df004eC9977D73743D9Aa1A585Fc",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T18:30:28.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.052Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b201d248223e6b0c3a48d1"
+  },
+  "address": "0x434d01078bf3B77F0487de9BaF51C2d5AF369231",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T03:57:31.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.087Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b201db48223e6b0c3a48d4"
+  },
+  "address": "0x1E28273E4e46a24276ab5bd813D8523Ff66AAAd8",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-01T13:47:57.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.120Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b201e448223e6b0c3a48d7"
+  },
+  "address": "0x3e9547c398a98b3eF1BDFCd2F89f1122265d1022",
+  "totalBuys": 0,
+  "directBuys": 0,
+  "joinedAt": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.156Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b201ec48223e6b0c3a48da"
+  },
+  "address": "0x205244383dA6BCEc43f47A2bf186EdcE5fD4A859",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-01T16:13:03.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.190Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2022248223e6b0c3a48dd"
+  },
+  "address": "0x12ec081563895E0fe83CBbD043ebe8822ce9AfDD",
+  "totalBuys": 21237,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T10:53:41.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.224Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x191Fc77B0FcDaD2D4cb72D906Fd3f478F2dda961",
+      "_id": {
+        "$oid": "66bc628ec23e0fb50a6c97a0"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T11:01:08.000Z"
+      }
+    },
+    {
+      "address": "0x0bF9bDCcD333d5FF4Fb5856489eD8695B5120D64",
+      "_id": {
+        "$oid": "66bc628ec23e0fb50a6c97a1"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T11:15:56.000Z"
+      }
+    },
+    {
+      "address": "0x38c32Ee82C20bD032633F0FB446E17AfDF71fbE7",
+      "_id": {
+        "$oid": "66bc628ec23e0fb50a6c97a2"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T11:23:35.000Z"
+      }
+    },
+    {
+      "address": "0xCbEebef6e553Da48D4Cc045ae2F87a47238622df",
+      "_id": {
+        "$oid": "66bc628ec23e0fb50a6c97a3"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T12:04:46.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 200
+},
+{
+  "_id": {
+    "$oid": "66b2025548223e6b0c3a48e4"
+  },
+  "address": "0x191Fc77B0FcDaD2D4cb72D906Fd3f478F2dda961",
+  "totalBuys": 21087,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T11:01:08.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.261Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x5f4B198191597900190b12499246c9C114Bb5FcC",
+      "_id": {
+        "$oid": "66bc62dec23e0fb50a6c9838"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T11:10:53.000Z"
+      }
+    },
+    {
+      "address": "0x2671c1bE13ADB304FDB1B3053faE94D42317b4f6",
+      "_id": {
+        "$oid": "66bc62dec23e0fb50a6c9839"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T11:49:21.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2028848223e6b0c3a48e9"
+  },
+  "address": "0x5f4B198191597900190b12499246c9C114Bb5FcC",
+  "totalBuys": 22037,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T11:10:53.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.301Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x0192261B996Ee77EF0C4580106b5338d53890BFe",
+      "_id": {
+        "$oid": "66bc632ec23e0fb50a6c98ce"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T11:55:25.000Z"
+      }
+    },
+    {
+      "address": "0x562e8cB41bCb80D8193C932215Af9cdC67EB20D5",
+      "_id": {
+        "$oid": "66bc632ec23e0fb50a6c98cf"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T12:13:10.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b202bc48223e6b0c3a48ee"
+  },
+  "address": "0x0192261B996Ee77EF0C4580106b5338d53890BFe",
+  "totalBuys": 22237,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T11:55:25.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.339Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x1Eb898332C5D1b591A278b9379Bc517817f2943D",
+      "_id": {
+        "$oid": "66bc637dc23e0fb50a6c9933"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T11:59:52.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b202ef48223e6b0c3a48f2"
+  },
+  "address": "0x1Eb898332C5D1b591A278b9379Bc517817f2943D",
+  "totalBuys": 22787,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T11:59:52.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.373Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x142652924eAE96c052A0FD328192c24A18FE0bf2",
+      "_id": {
+        "$oid": "66bc63cec23e0fb50a6c99c8"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T12:26:53.000Z"
+      }
+    },
+    {
+      "address": "0x6942443E1188f73aA0BF39BD7FBb9E017cF775fD",
+      "_id": {
+        "$oid": "66bc63cec23e0fb50a6c99c9"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T01:36:56.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 60
+},
+{
+  "_id": {
+    "$oid": "66b2031948223e6b0c3a48f7"
+  },
+  "address": "0x142652924eAE96c052A0FD328192c24A18FE0bf2",
+  "totalBuys": 20157,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T12:26:53.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.411Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xAa81a8a30E0a953D99c0Cdf51D173e25217AA873",
+      "_id": {
+        "$oid": "66bc6412c23e0fb50a6c9a2d"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T12:36:08.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2034248223e6b0c3a48fb"
+  },
+  "address": "0xAa81a8a30E0a953D99c0Cdf51D173e25217AA873",
+  "totalBuys": 20207,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T12:36:08.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": false,
+  "rewardAmount": 347,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.445Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x96D0a7f7642ab648b2d87Cdfe98d2Fd9B25eD7f6",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c4a"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-07-28T12:59:20.000Z"
+      }
+    },
+    {
+      "address": "0x5a68ADffAEb744813f1FcaCCCA322124998d1207",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c4b"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:40:14.000Z"
+      }
+    },
+    {
+      "address": "0xD651a04c3BA170e09877b42DDE666F3E55D04e8F",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c4c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:43:26.000Z"
+      }
+    },
+    {
+      "address": "0xEf3e574C35640a37fe178c86C4E53f28B35E1138",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c4d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:44:29.000Z"
+      }
+    },
+    {
+      "address": "0x4b93acFBFD70Ffee52260dd319EE255b6eebC87c",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c4e"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:46:02.000Z"
+      }
+    },
+    {
+      "address": "0xB68474FdC20E46dd9321Ed12f038592799DE6551",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c4f"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:49:33.000Z"
+      }
+    },
+    {
+      "address": "0x87B1b7cb85DCDc6e4De9DB29d969d6eDc010c6DB",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c50"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:52:49.000Z"
+      }
+    },
+    {
+      "address": "0x03d18D6D21041C2090A1bf4c165c97d2B211A3cd",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c51"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T13:53:49.000Z"
+      }
+    },
+    {
+      "address": "0xC93cA38E884FF4757095F55f9962ecE0ddf0019D",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c52"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T14:02:37.000Z"
+      }
+    },
+    {
+      "address": "0x9d0edFF87e7ebce3661b9F3cA2a8Ea16f655b3a2",
+      "_id": {
+        "$oid": "66bc6455c23e0fb50a6c9c53"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T14:07:04.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1450
+},
+{
+  "_id": {
+    "$oid": "66b2036748223e6b0c3a4908"
+  },
+  "address": "0x96D0a7f7642ab648b2d87Cdfe98d2Fd9B25eD7f6",
+  "totalBuys": 18957,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-07-28T12:59:20.000Z"
+  },
+  "rank": "Founder",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.483Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x267d85a5c75941f8144000180411505972AD123a",
+      "_id": {
+        "$oid": "66bc6494c23e0fb50a6c9dac"
+      },
+      "rank": "Co-Founder",
+      "totalTokensBoughtUsd": 500,
+      "joinedAt": {
+        "$date": "2024-07-28T13:08:41.000Z"
+      }
+    },
+    {
+      "address": "0xd0fC45c5F5fdfC21eD4AE4277F299B65B93382CD",
+      "_id": {
+        "$oid": "66bc6494c23e0fb50a6c9dad"
+      },
+      "rank": "Co-Founder",
+      "totalTokensBoughtUsd": 500,
+      "joinedAt": {
+        "$date": "2024-08-12T01:05:06.000Z"
+      }
+    },
+    {
+      "address": "0x070CaCfEcF3d4bc8b6EFF1bb9095e633E7Ff0FCc",
+      "_id": {
+        "$oid": "66bc6494c23e0fb50a6c9dae"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-13T02:25:54.000Z"
+      }
+    },
+    {
+      "address": "0x8d856A9FC6B69Ead1CEDF419e0326d02058fa717",
+      "_id": {
+        "$oid": "66bc6494c23e0fb50a6c9daf"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T02:50:27.000Z"
+      }
+    },
+    {
+      "address": "0xEcAf005a6e5ef69E28d47f90daC20507dA5Ab7f6",
+      "_id": {
+        "$oid": "66bc6494c23e0fb50a6c9db0"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T02:53:39.000Z"
+      }
+    },
+    {
+      "address": "0x5CA251f3726dD8D54D6440F262E502E409786931",
+      "_id": {
+        "$oid": "66bc6494c23e0fb50a6c9db1"
+      },
+      "rank": "Co-Founder",
+      "totalTokensBoughtUsd": 500,
+      "joinedAt": {
+        "$date": "2024-08-13T03:01:56.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1750
+},
+{
+  "_id": {
+    "$oid": "66b2038b48223e6b0c3a490c"
+  },
+  "address": "0x267d85a5c75941f8144000180411505972AD123a",
+  "totalBuys": 10757,
+  "directBuys": 500,
+  "joinedAt": {
+    "$date": "2024-07-28T13:08:41.000Z"
+  },
+  "rank": "Co-Founder",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.521Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x798cF0ECfaDE3A989c78521E6c9b07811351deA3",
+      "_id": {
+        "$oid": "66bc64c3c23e0fb50a6c9f0a"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T15:56:48.000Z"
+      }
+    },
+    {
+      "address": "0x87CbA97f28E5a961Ed7D7751cEA5516bb0Ff7Ad0",
+      "_id": {
+        "$oid": "66bc64c3c23e0fb50a6c9f0b"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-11T16:49:13.000Z"
+      }
+    },
+    {
+      "address": "0x768A77d872fF00D30b46b454E2C031f5bB5e8fdA",
+      "_id": {
+        "$oid": "66bc64c3c23e0fb50a6c9f0c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-11T16:51:07.000Z"
+      }
+    },
+    {
+      "address": "0xEB67Dfd6EDeADCfFC4A6425b14E4Ee6736daE9c7",
+      "_id": {
+        "$oid": "66bc64c3c23e0fb50a6c9f0d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-11T16:52:14.000Z"
+      }
+    },
+    {
+      "address": "0x85D3eC1E9fC2FCFbEd85bbA49fEC4504d6DeE915",
+      "_id": {
+        "$oid": "66bc64c3c23e0fb50a6c9f0e"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-11T16:54:34.000Z"
+      }
+    },
+    {
+      "address": "0x06e859c2Bbb7a7E1D889d6281392f3B2F76A499e",
+      "_id": {
+        "$oid": "66bc64c3c23e0fb50a6c9f0f"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-11T16:55:58.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 5100
+},
+{
+  "_id": {
+    "$oid": "66b203ae48223e6b0c3a4910"
+  },
+  "address": "0x798cF0ECfaDE3A989c78521E6c9b07811351deA3",
+  "totalBuys": 5707,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T15:56:48.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.556Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x4723B698cB6b964b04073E8073360e788af9AE78",
+      "_id": {
+        "$oid": "66bc64efc23e0fb50a6c9f73"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-07-28T16:11:08.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1000
+},
+{
+  "_id": {
+    "$oid": "66b203bdce8d7aab5a86c047"
+  },
+  "address": "0x14902CDFE74aA1BF56fABD0EFF522DE944D728D2",
+  "totalBuys": 0,
+  "directBuys": 0,
+  "joinedAt": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.592Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b203d148223e6b0c3a4914"
+  },
+  "address": "0x4723B698cB6b964b04073E8073360e788af9AE78",
+  "totalBuys": 4757,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-07-28T16:11:08.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.625Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xCA933e8e6Df0E1B73155fd4D6e9da5268945A142",
+      "_id": {
+        "$oid": "66bc651bc23e0fb50a6ca06a"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-28T17:18:09.000Z"
+      }
+    },
+    {
+      "address": "0xF2e13bF8C0E40aa83ad122677452fB2719539534",
+      "_id": {
+        "$oid": "66bc651bc23e0fb50a6ca06b"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T02:52:07.000Z"
+      }
+    },
+    {
+      "address": "0x7086cF44639f5Be28EfE7ab97DBC432b0Af59eAE",
+      "_id": {
+        "$oid": "66bc651bc23e0fb50a6ca06c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 110,
+      "joinedAt": {
+        "$date": "2024-07-29T20:34:31.000Z"
+      }
+    },
+    {
+      "address": "0x1339b487046B0ad924a10c20b1791608EA8595a8",
+      "_id": {
+        "$oid": "66bc651bc23e0fb50a6ca06d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 110,
+      "joinedAt": {
+        "$date": "2024-07-29T20:42:52.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 280
+},
+{
+  "_id": {
+    "$oid": "66b203f248223e6b0c3a491b"
+  },
+  "address": "0xCA933e8e6Df0E1B73155fd4D6e9da5268945A142",
+  "totalBuys": 4550,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-28T17:18:09.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.662Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x046A7CD152e0f2f2C499f6963A6901d2F96275C2",
+      "_id": {
+        "$oid": "66bc6544c23e0fb50a6ca0d1"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-28T17:29:12.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2041248223e6b0c3a491f"
+  },
+  "address": "0x046A7CD152e0f2f2C499f6963A6901d2F96275C2",
+  "totalBuys": 4550,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T17:29:12.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.695Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x11E1c99acB8D73899Ca7e016B5730a42d47A1363",
+      "_id": {
+        "$oid": "66bc656cc23e0fb50a6ca135"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T17:37:15.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2043148223e6b0c3a4923"
+  },
+  "address": "0x11E1c99acB8D73899Ca7e016B5730a42d47A1363",
+  "totalBuys": 4550,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T17:37:15.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.728Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xc4C8853740E9d041102f4730E6b9d07804D25d8c",
+      "_id": {
+        "$oid": "66bc6594c23e0fb50a6ca199"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-28T17:45:03.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2045148223e6b0c3a4927"
+  },
+  "address": "0xc4C8853740E9d041102f4730E6b9d07804D25d8c",
+  "totalBuys": 5550,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-28T17:45:03.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.762Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x38EE12bFBeE5A3cb2331EdF28d5C7955ce7B8794",
+      "_id": {
+        "$oid": "66bc65bcc23e0fb50a6ca1fd"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 550,
+      "joinedAt": {
+        "$date": "2024-07-29T03:42:13.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 550
+},
+{
+  "_id": {
+    "$oid": "66b2047048223e6b0c3a492b"
+  },
+  "address": "0x38EE12bFBeE5A3cb2331EdF28d5C7955ce7B8794",
+  "totalBuys": 5100,
+  "directBuys": 550,
+  "joinedAt": {
+    "$date": "2024-07-29T03:42:13.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.799Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x1D6A8fc304e3df7ff089Dc49Bc83d403426c2f2F",
+      "_id": {
+        "$oid": "66bc65e4c23e0fb50a6ca261"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T04:13:55.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2049048223e6b0c3a492f"
+  },
+  "address": "0x1D6A8fc304e3df7ff089Dc49Bc83d403426c2f2F",
+  "totalBuys": 5450,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T04:13:55.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.834Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xdAA76F66ed166B4C9E095Ca581ecC09CfB701932",
+      "_id": {
+        "$oid": "66bc660cc23e0fb50a6ca2f6"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T04:18:43.000Z"
+      }
+    },
+    {
+      "address": "0x11dabB0850c94033c206B0148733E40b7dd5b749",
+      "_id": {
+        "$oid": "66bc660cc23e0fb50a6ca2f7"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T05:54:27.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 200
+},
+{
+  "_id": {
+    "$oid": "66b2049a48223e6b0c3a4934"
+  },
+  "address": "0xdAA76F66ed166B4C9E095Ca581ecC09CfB701932",
+  "totalBuys": 50,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T04:18:43.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.868Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x2e1791d38BEAabFCe4e95bC32e751aB380bEC66d",
+      "_id": {
+        "$oid": "66bc661cc23e0fb50a6ca35b"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 0,
+      "joinedAt": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b204a348223e6b0c3a4938"
+  },
+  "address": "0x2e1791d38BEAabFCe4e95bC32e751aB380bEC66d",
+  "totalBuys": 0,
+  "directBuys": 0,
+  "joinedAt": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.903Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b204c048223e6b0c3a493b"
+  },
+  "address": "0x11dabB0850c94033c206B0148733E40b7dd5b749",
+  "totalBuys": 5200,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T05:54:27.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.936Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xE4CE032Ba2620C9CE4dD9670DCAA1cA93De62eCa",
+      "_id": {
+        "$oid": "66bc6653c23e0fb50a6ca3f1"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T06:43:30.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b204de48223e6b0c3a493f"
+  },
+  "address": "0xE4CE032Ba2620C9CE4dD9670DCAA1cA93De62eCa",
+  "totalBuys": 5100,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T06:43:30.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:04.969Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x3D73B6eE8c40021e24E45ad1380F394A665CA424",
+      "_id": {
+        "$oid": "66bc6679c23e0fb50a6ca455"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T06:45:27.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b204fb48223e6b0c3a4943"
+  },
+  "address": "0x3D73B6eE8c40021e24E45ad1380F394A665CA424",
+  "totalBuys": 5050,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T06:45:27.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.006Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x8055AefaEfC3Bf33B2A9C24e07E5eeA76B4642CF",
+      "_id": {
+        "$oid": "66bc669ec23e0fb50a6ca4b9"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T06:50:49.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2051848223e6b0c3a4947"
+  },
+  "address": "0x8055AefaEfC3Bf33B2A9C24e07E5eeA76B4642CF",
+  "totalBuys": 5000,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T06:50:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.040Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xe10E7cCfe14C068d88Bc9397776a5341A115339c",
+      "_id": {
+        "$oid": "66bc66c2c23e0fb50a6ca51d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T07:02:49.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2053448223e6b0c3a494b"
+  },
+  "address": "0xe10E7cCfe14C068d88Bc9397776a5341A115339c",
+  "totalBuys": 4950,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T07:02:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.076Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xA9F2553b92177B358d00E075C80Ce92FA755CEe1",
+      "_id": {
+        "$oid": "66bc66e6c23e0fb50a6ca581"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T07:07:58.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2054f48223e6b0c3a494f"
+  },
+  "address": "0xA9F2553b92177B358d00E075C80Ce92FA755CEe1",
+  "totalBuys": 4850,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T07:07:58.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.110Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x4e05300547cbc54eC5aF97a0eBC8141da881Ef04",
+      "_id": {
+        "$oid": "66bc670ac23e0fb50a6ca5e5"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T07:21:13.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2056948223e6b0c3a4953"
+  },
+  "address": "0x4e05300547cbc54eC5aF97a0eBC8141da881Ef04",
+  "totalBuys": 4800,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T07:21:13.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.144Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xeb8D59a5eEcB0668cF57576eDA17732c57B3ffCB",
+      "_id": {
+        "$oid": "66bc672cc23e0fb50a6ca649"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T07:27:37.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2058348223e6b0c3a4957"
+  },
+  "address": "0xeb8D59a5eEcB0668cF57576eDA17732c57B3ffCB",
+  "totalBuys": 4750,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T07:27:37.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.181Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x36d8cf14209308E2b83f6691e0Cc62603a4B11Ec",
+      "_id": {
+        "$oid": "66bc674fc23e0fb50a6ca6ad"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T07:31:22.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2059d48223e6b0c3a495b"
+  },
+  "address": "0x36d8cf14209308E2b83f6691e0Cc62603a4B11Ec",
+  "totalBuys": 4700,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T07:31:22.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.217Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x208B6213e49D895dCb9c9F55c21E7d95CA0F0822",
+      "_id": {
+        "$oid": "66bc6771c23e0fb50a6ca711"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T07:39:25.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b205b648223e6b0c3a495f"
+  },
+  "address": "0x208B6213e49D895dCb9c9F55c21E7d95CA0F0822",
+  "totalBuys": 4650,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T07:39:25.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.251Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x7690DF84bf6F74aE83b4a36c8683ad857Cc749D0",
+      "_id": {
+        "$oid": "66bc6792c23e0fb50a6ca7a6"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-07-29T07:48:13.000Z"
+      }
+    },
+    {
+      "address": "0x9b1Cb4C1CF4E6C28869B2e6cBe5D0730b583eb72",
+      "_id": {
+        "$oid": "66bc6792c23e0fb50a6ca7a7"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-30T13:55:56.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1050
+},
+{
+  "_id": {
+    "$oid": "66b205cc48223e6b0c3a4964"
+  },
+  "address": "0x7690DF84bf6F74aE83b4a36c8683ad857Cc749D0",
+  "totalBuys": 3300,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-07-29T07:48:13.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.286Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x0CdE5A1122297251933C03836523566F6fF23a1b",
+      "_id": {
+        "$oid": "66bc67b1c23e0fb50a6ca80b"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T11:38:43.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b205e948223e6b0c3a4968"
+  },
+  "address": "0x0CdE5A1122297251933C03836523566F6fF23a1b",
+  "totalBuys": 3200,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T11:38:43.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": true,
+  "rewardAmount": 100,
+  "rewardAt": {
+    "$date": "2024-08-06T12:09:45.103Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.336Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x6F3d5F179315D825aaAbE1Fc7848Cbc3293f791E",
+      "_id": {
+        "$oid": "66bc67d0c23e0fb50a6ca933"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 200,
+      "joinedAt": {
+        "$date": "2024-07-29T13:11:07.000Z"
+      }
+    },
+    {
+      "address": "0xD2F126039CdE9fdD5a14381FB4733BF2E1a53d2a",
+      "_id": {
+        "$oid": "66bc67d0c23e0fb50a6ca934"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T13:48:57.000Z"
+      }
+    },
+    {
+      "address": "0xB37340a9332e08DfB37C83922673898794F4b318",
+      "_id": {
+        "$oid": "66bc67d0c23e0fb50a6ca935"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-30T13:22:18.000Z"
+      }
+    },
+    {
+      "address": "0xA6BD1b79E7962DEDdab05368a8C3c7a369dE8B17",
+      "_id": {
+        "$oid": "66bc67d0c23e0fb50a6ca936"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-30T18:07:29.000Z"
+      }
+    },
+    {
+      "address": "0x03D3ABf5B2452f055AF49297dE90D6D98A4C9b82",
+      "_id": {
+        "$oid": "66bc67d0c23e0fb50a6ca937"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-04T13:38:49.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 550
+},
+{
+  "_id": {
+    "$oid": "66b205f148223e6b0c3a4970"
+  },
+  "address": "0x6F3d5F179315D825aaAbE1Fc7848Cbc3293f791E",
+  "totalBuys": 0,
+  "directBuys": 200,
+  "joinedAt": {
+    "$date": "2024-07-29T13:11:07.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.381Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2060348223e6b0c3a4973"
+  },
+  "address": "0xD2F126039CdE9fdD5a14381FB4733BF2E1a53d2a",
+  "totalBuys": 2250,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T13:48:57.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.421Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x61C99A1D76F99c52240f885062B58350F428e4B5",
+      "_id": {
+        "$oid": "66bc67f9c23e0fb50a6ca9cd"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T14:21:01.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2061348223e6b0c3a4977"
+  },
+  "address": "0x61C99A1D76F99c52240f885062B58350F428e4B5",
+  "totalBuys": 2150,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T14:21:01.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.456Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xE5A9963ded9C0d3891CdCe97D345BA87E07de331",
+      "_id": {
+        "$oid": "66bc6811c23e0fb50a6caa31"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-29T14:32:04.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2062448223e6b0c3a497b"
+  },
+  "address": "0xE5A9963ded9C0d3891CdCe97D345BA87E07de331",
+  "totalBuys": 2100,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T14:32:04.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.489Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x951c116262717a82889B0f26Fa04F31f6b27D637",
+      "_id": {
+        "$oid": "66bc6829c23e0fb50a6caa95"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-29T14:37:34.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2063848223e6b0c3a497f"
+  },
+  "address": "0x951c116262717a82889B0f26Fa04F31f6b27D637",
+  "totalBuys": 2000,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-29T14:37:34.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.522Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xAB216Dc665908F168614B51Bb2C7F34987aC2236",
+      "_id": {
+        "$oid": "66bc6840c23e0fb50a6caaf9"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-30T14:39:26.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2064748223e6b0c3a4983"
+  },
+  "address": "0xAB216Dc665908F168614B51Bb2C7F34987aC2236",
+  "totalBuys": 1950,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-30T14:39:26.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.555Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x436a8962355a46500074c4fB15F8684a8F89f782",
+      "_id": {
+        "$oid": "66bc6857c23e0fb50a6cab5d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-30T15:05:23.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2065548223e6b0c3a4987"
+  },
+  "address": "0x436a8962355a46500074c4fB15F8684a8F89f782",
+  "totalBuys": 1900,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-30T15:05:23.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.588Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x1861C4969d6A9AA9AEb24caF723D1F5018C1f845",
+      "_id": {
+        "$oid": "66bc686dc23e0fb50a6cabc1"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-07-30T15:09:08.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2066348223e6b0c3a498b"
+  },
+  "address": "0x1861C4969d6A9AA9AEb24caF723D1F5018C1f845",
+  "totalBuys": 1850,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-30T15:09:08.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.621Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x3b0688456379f6eC02f8059Bb7FEfcc6c3207966",
+      "_id": {
+        "$oid": "66bc6882c23e0fb50a6cac25"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-30T15:12:11.000Z"
+      }
+    }
+  ],
+  "__v": 77,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2067048223e6b0c3a498f"
+  },
+  "address": "0x3b0688456379f6eC02f8059Bb7FEfcc6c3207966",
+  "totalBuys": 1750,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-30T15:12:11.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.653Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x07ED6F70A09459a5Ce773f43f02fcf8a915D77BA",
+      "_id": {
+        "$oid": "66bc6898c23e0fb50a6cac89"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-01T17:56:29.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66b2067d48223e6b0c3a4993"
+  },
+  "address": "0x07ED6F70A09459a5Ce773f43f02fcf8a915D77BA",
+  "totalBuys": 1700,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-01T17:56:29.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.696Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xEbc0aa2a54cAB290Fc389903100eDFD791c418ec",
+      "_id": {
+        "$oid": "66bc68adc23e0fb50a6caced"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-01T18:01:26.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2068a48223e6b0c3a4997"
+  },
+  "address": "0xEbc0aa2a54cAB290Fc389903100eDFD791c418ec",
+  "totalBuys": 1600,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-01T18:01:26.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.728Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x18ADBB247Af1d9FeA1BDC3cb747de2DD893c6e5c",
+      "_id": {
+        "$oid": "66bc68c1c23e0fb50a6cad51"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1100,
+      "joinedAt": {
+        "$date": "2024-08-01T18:50:41.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1100
+},
+{
+  "_id": {
+    "$oid": "66b2069548223e6b0c3a499b"
+  },
+  "address": "0x18ADBB247Af1d9FeA1BDC3cb747de2DD893c6e5c",
+  "totalBuys": 500,
+  "directBuys": 1100,
+  "joinedAt": {
+    "$date": "2024-08-01T18:50:41.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.763Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x7CF5922a3Df7C176f2234Ca869046Faf57e2019D",
+      "_id": {
+        "$oid": "66bc68d4c23e0fb50a6cadb5"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-02T10:53:18.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b206a048223e6b0c3a499f"
+  },
+  "address": "0x7CF5922a3Df7C176f2234Ca869046Faf57e2019D",
+  "totalBuys": 400,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-02T10:53:18.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": true,
+  "rewardAmount": 100,
+  "rewardAt": {
+    "$date": "2024-08-06T12:09:45.536Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.796Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xBdEf7bD5aEA8dd15b6677bf62F5ae0929840C75E",
+      "_id": {
+        "$oid": "66bc68e6c23e0fb50a6caeac"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-02T10:53:54.000Z"
+      }
+    },
+    {
+      "address": "0x89AE91A5FfeA56cF95e9d367D53dDAB80b40Ce7d",
+      "_id": {
+        "$oid": "66bc68e6c23e0fb50a6caead"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-03T10:11:28.000Z"
+      }
+    },
+    {
+      "address": "0x44597341342C6753A27FB71935815cd0466F5397",
+      "_id": {
+        "$oid": "66bc68e6c23e0fb50a6caeae"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-03T10:13:55.000Z"
+      }
+    },
+    {
+      "address": "0x5960Ef15a6e5Ba2C462aC6433FE65F0BDbba4F27",
+      "_id": {
+        "$oid": "66bc68e6c23e0fb50a6caeaf"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-03T10:16:16.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 400
+},
+{
+  "_id": {
+    "$oid": "66b206a948223e6b0c3a49a6"
+  },
+  "address": "0xBdEf7bD5aEA8dd15b6677bf62F5ae0929840C75E",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-02T10:53:54.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.833Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206b248223e6b0c3a49a9"
+  },
+  "address": "0x89AE91A5FfeA56cF95e9d367D53dDAB80b40Ce7d",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-03T10:11:28.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.867Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206bb48223e6b0c3a49ac"
+  },
+  "address": "0x44597341342C6753A27FB71935815cd0466F5397",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-03T10:13:55.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.901Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206c448223e6b0c3a49af"
+  },
+  "address": "0x5960Ef15a6e5Ba2C462aC6433FE65F0BDbba4F27",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-03T10:16:16.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.934Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206ce48223e6b0c3a49b2"
+  },
+  "address": "0xB37340a9332e08DfB37C83922673898794F4b318",
+  "totalBuys": 400,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-30T13:22:18.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:05.968Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xF4633E2Fb5f26cfE83c06fB419e5eB96739dD0B1",
+      "_id": {
+        "$oid": "66bc693ac23e0fb50a6cb00c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-30T13:58:32.000Z"
+      }
+    },
+    {
+      "address": "0xDF8f41FD3dC5d596a5290baEad7169a82d3F69eb",
+      "_id": {
+        "$oid": "66bc693ac23e0fb50a6cb00d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-07-30T15:16:56.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 200
+},
+{
+  "_id": {
+    "$oid": "66b206d748223e6b0c3a49b7"
+  },
+  "address": "0xF4633E2Fb5f26cfE83c06fB419e5eB96739dD0B1",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-30T13:58:32.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.003Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206df48223e6b0c3a49ba"
+  },
+  "address": "0xDF8f41FD3dC5d596a5290baEad7169a82d3F69eb",
+  "totalBuys": 200,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-30T15:16:56.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.048Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xDEC8D40cC2CBc0ad2d975C16429C4AAc61d5f0b7",
+      "_id": {
+        "$oid": "66bc695bc23e0fb50a6cb0a3"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-14T03:41:07.000Z"
+      }
+    }
+  ],
+  "__v": 50,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b206e848223e6b0c3a49bd"
+  },
+  "address": "0xA6BD1b79E7962DEDdab05368a8C3c7a369dE8B17",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-07-30T18:07:29.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.108Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206f148223e6b0c3a49c0"
+  },
+  "address": "0x03D3ABf5B2452f055AF49297dE90D6D98A4C9b82",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-04T13:38:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.163Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b206fb48223e6b0c3a49c3"
+  },
+  "address": "0x9b1Cb4C1CF4E6C28869B2e6cBe5D0730b583eb72",
+  "totalBuys": 300,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-30T13:55:56.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.198Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xc7288B16eab3BAd9D7Dc946335DA2A9A9576C1BB",
+      "_id": {
+        "$oid": "66bc69adc23e0fb50a6cb201"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 200,
+      "joinedAt": {
+        "$date": "2024-08-01T13:32:47.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 200
+},
+{
+  "_id": {
+    "$oid": "66b2070448223e6b0c3a49c7"
+  },
+  "address": "0xc7288B16eab3BAd9D7Dc946335DA2A9A9576C1BB",
+  "totalBuys": 100,
+  "directBuys": 200,
+  "joinedAt": {
+    "$date": "2024-08-01T13:32:47.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.232Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x4D1A2c3628CD38eCb29363b520511bc8CF073182",
+      "_id": {
+        "$oid": "66bc69bdc23e0fb50a6cb265"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-01T15:02:51.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b2070e48223e6b0c3a49cb"
+  },
+  "address": "0x4D1A2c3628CD38eCb29363b520511bc8CF073182",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-01T15:02:51.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.265Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2071648223e6b0c3a49ce"
+  },
+  "address": "0xF2e13bF8C0E40aa83ad122677452fB2719539534",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-29T02:52:07.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.301Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2071f48223e6b0c3a49d1"
+  },
+  "address": "0x7086cF44639f5Be28EfE7ab97DBC432b0Af59eAE",
+  "totalBuys": 0,
+  "directBuys": 110,
+  "joinedAt": {
+    "$date": "2024-07-29T20:34:31.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.334Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2072848223e6b0c3a49d4"
+  },
+  "address": "0x1339b487046B0ad924a10c20b1791608EA8595a8",
+  "totalBuys": 27,
+  "directBuys": 110,
+  "joinedAt": {
+    "$date": "2024-07-29T20:42:52.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.374Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x14902CDFE74aA1BF56fABD0EFF522DE944D728D2",
+      "_id": {
+        "$oid": "66bc69fec23e0fb50a6cb35f"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 0,
+      "joinedAt": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2073948223e6b0c3a49da"
+  },
+  "address": "0x5a68ADffAEb744813f1FcaCCCA322124998d1207",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:40:14.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.408Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2074248223e6b0c3a49dd"
+  },
+  "address": "0xD651a04c3BA170e09877b42DDE666F3E55D04e8F",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:43:26.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.441Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2074b48223e6b0c3a49e0"
+  },
+  "address": "0xEf3e574C35640a37fe178c86C4E53f28B35E1138",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:44:29.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.474Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2075348223e6b0c3a49e3"
+  },
+  "address": "0x4b93acFBFD70Ffee52260dd319EE255b6eebC87c",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:46:02.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.509Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2075c48223e6b0c3a49e6"
+  },
+  "address": "0xB68474FdC20E46dd9321Ed12f038592799DE6551",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:49:33.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.541Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2076448223e6b0c3a49e9"
+  },
+  "address": "0x87B1b7cb85DCDc6e4De9DB29d969d6eDc010c6DB",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:52:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.576Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2076d48223e6b0c3a49ec"
+  },
+  "address": "0x03d18D6D21041C2090A1bf4c165c97d2B211A3cd",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T13:53:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.612Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2077648223e6b0c3a49ef"
+  },
+  "address": "0xC93cA38E884FF4757095F55f9962ecE0ddf0019D",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T14:02:37.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.650Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2078048223e6b0c3a49f2"
+  },
+  "address": "0x9d0edFF87e7ebce3661b9F3cA2a8Ea16f655b3a2",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T14:07:04.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.684Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2079248223e6b0c3a49f5"
+  },
+  "address": "0x6942443E1188f73aA0BF39BD7FBb9E017cF775fD",
+  "totalBuys": 2870,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T01:36:56.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.719Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xE80b2464718E47A1E183aA4e2ed85c4B6378BB53",
+      "_id": {
+        "$oid": "66bc6caac23e0fb50a6cc434"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T02:22:57.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207a348223e6b0c3a49f9"
+  },
+  "address": "0xE80b2464718E47A1E183aA4e2ed85c4B6378BB53",
+  "totalBuys": 2860,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T02:22:57.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.753Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xbA0f449733B6e97EddF8b0251e4f641F0F708a99",
+      "_id": {
+        "$oid": "66bc6cc6c23e0fb50a6cc498"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T02:40:33.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207b448223e6b0c3a49fd"
+  },
+  "address": "0xbA0f449733B6e97EddF8b0251e4f641F0F708a99",
+  "totalBuys": 2850,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T02:40:33.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.786Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x3dD1DD672eB8c7eB1e87a1Ded75d0a1b674B7d32",
+      "_id": {
+        "$oid": "66bc6ce1c23e0fb50a6cc4fc"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T02:44:37.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207c448223e6b0c3a4a01"
+  },
+  "address": "0x3dD1DD672eB8c7eB1e87a1Ded75d0a1b674B7d32",
+  "totalBuys": 2840,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T02:44:37.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.819Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x827328FCb347Af6016997870C43500A7170a3031",
+      "_id": {
+        "$oid": "66bc6cfac23e0fb50a6cc560"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T04:37:46.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207d448223e6b0c3a4a05"
+  },
+  "address": "0x827328FCb347Af6016997870C43500A7170a3031",
+  "totalBuys": 2830,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T04:37:46.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.854Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x2B8bf1E7455CEC838dee44e4C57988128063b23c",
+      "_id": {
+        "$oid": "66bc6d14c23e0fb50a6cc5c4"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T04:41:56.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207e348223e6b0c3a4a09"
+  },
+  "address": "0x2B8bf1E7455CEC838dee44e4C57988128063b23c",
+  "totalBuys": 2820,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T04:41:56.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.888Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xCa51aD2c1937a23D61f7E2Ba81B2513D959CCA57",
+      "_id": {
+        "$oid": "66bc6d2dc23e0fb50a6cc628"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T04:45:32.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207f148223e6b0c3a4a0d"
+  },
+  "address": "0xCa51aD2c1937a23D61f7E2Ba81B2513D959CCA57",
+  "totalBuys": 2810,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T04:45:32.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.925Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x92740cb512D4545001cFd71526C3fac846551604",
+      "_id": {
+        "$oid": "66bc6d45c23e0fb50a6cc68c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-30T04:51:59.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b207ff48223e6b0c3a4a11"
+  },
+  "address": "0x92740cb512D4545001cFd71526C3fac846551604",
+  "totalBuys": 2800,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-30T04:51:59.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.958Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xfE5c3324Ca4aE08596F680fE079e5cF3EA0fe460",
+      "_id": {
+        "$oid": "66bc6d5dc23e0fb50a6cc6f0"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-31T02:48:11.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b2080c48223e6b0c3a4a15"
+  },
+  "address": "0xfE5c3324Ca4aE08596F680fE079e5cF3EA0fe460",
+  "totalBuys": 2790,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-31T02:48:11.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:06.994Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xE655A6167CC4810bEf71E08cE2786C17D27B8da7",
+      "_id": {
+        "$oid": "66bc6d73c23e0fb50a6cc754"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-07-31T02:55:14.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b2081848223e6b0c3a4a19"
+  },
+  "address": "0xE655A6167CC4810bEf71E08cE2786C17D27B8da7",
+  "totalBuys": 2780,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-07-31T02:55:14.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.027Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x12f2f58C595CB36a0Bea2b00f1D629b5a56FB519",
+      "_id": {
+        "$oid": "66bc6d8bc23e0fb50a6cc7b8"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-08-02T02:51:57.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b2082548223e6b0c3a4a1d"
+  },
+  "address": "0x12f2f58C595CB36a0Bea2b00f1D629b5a56FB519",
+  "totalBuys": 2770,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-08-02T02:51:57.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.061Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xC61AceF8827D52d1201aBc15928873B87eB93EdF",
+      "_id": {
+        "$oid": "66bc6da1c23e0fb50a6cc81c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 10,
+      "joinedAt": {
+        "$date": "2024-08-02T02:56:27.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 10
+},
+{
+  "_id": {
+    "$oid": "66b2083048223e6b0c3a4a21"
+  },
+  "address": "0xC61AceF8827D52d1201aBc15928873B87eB93EdF",
+  "totalBuys": 2760,
+  "directBuys": 10,
+  "joinedAt": {
+    "$date": "2024-08-02T02:56:27.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.095Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x51f7884f93Ba681295F4a8AE9526f8f87542128E",
+      "_id": {
+        "$oid": "66bc6db9c23e0fb50a6cc880"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 200,
+      "joinedAt": {
+        "$date": "2024-08-02T05:12:58.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 200
+},
+{
+  "_id": {
+    "$oid": "66b2083b48223e6b0c3a4a25"
+  },
+  "address": "0x51f7884f93Ba681295F4a8AE9526f8f87542128E",
+  "totalBuys": 2560,
+  "directBuys": 200,
+  "joinedAt": {
+    "$date": "2024-08-02T05:12:58.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.128Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xa45Fee05Ea302b4dAfA3b263E001FE2140BFD4C9",
+      "_id": {
+        "$oid": "66bc6dd1c23e0fb50a6cc946"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-04T13:13:25.000Z"
+      }
+    },
+    {
+      "address": "0x9331C8923215aa44DBD12d80f9a1be043413768B",
+      "_id": {
+        "$oid": "66bc6dd1c23e0fb50a6cc947"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-04T16:35:29.000Z"
+      }
+    },
+    {
+      "address": "0x11c0D013E8A2d4479c491f47a12B1B6510Fd5ADA",
+      "_id": {
+        "$oid": "66bc6dd1c23e0fb50a6cc948"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1010,
+      "joinedAt": {
+        "$date": "2024-08-08T14:14:56.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1210
+},
+{
+  "_id": {
+    "$oid": "66b2084448223e6b0c3a4a2a"
+  },
+  "address": "0xa45Fee05Ea302b4dAfA3b263E001FE2140BFD4C9",
+  "totalBuys": 200,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-04T13:13:25.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.164Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x05b26A4A8f5fcf2cf4911208d0dC6EB6f1e142D0",
+      "_id": {
+        "$oid": "66bc6de2c23e0fb50a6cc9ac"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 200,
+      "joinedAt": {
+        "$date": "2024-08-05T10:24:41.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 200
+},
+{
+  "_id": {
+    "$oid": "66b2084d48223e6b0c3a4a2e"
+  },
+  "address": "0x05b26A4A8f5fcf2cf4911208d0dC6EB6f1e142D0",
+  "totalBuys": 0,
+  "directBuys": 200,
+  "joinedAt": {
+    "$date": "2024-08-05T10:24:41.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.199Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2085648223e6b0c3a4a31"
+  },
+  "address": "0x9331C8923215aa44DBD12d80f9a1be043413768B",
+  "totalBuys": 1000,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-04T16:35:29.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.232Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xcdC38Ec5423a1D826535328BdF1f725F79e26EDD",
+      "_id": {
+        "$oid": "66bc6e07c23e0fb50a6cca42"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-04T16:46:26.000Z"
+      }
+    }
+  ],
+  "__v": 78,
+  "level1Buys": 1000
+},
+{
+  "_id": {
+    "$oid": "66b2085f48223e6b0c3a4a35"
+  },
+  "address": "0xcdC38Ec5423a1D826535328BdF1f725F79e26EDD",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-04T16:46:26.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.266Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2086748223e6b0c3a4a38"
+  },
+  "address": "0x562e8cB41bCb80D8193C932215Af9cdC67EB20D5",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T12:13:10.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.300Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2087048223e6b0c3a4a3b"
+  },
+  "address": "0x2671c1bE13ADB304FDB1B3053faE94D42317b4f6",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T11:49:21.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.333Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2087948223e6b0c3a4a3e"
+  },
+  "address": "0x0bF9bDCcD333d5FF4Fb5856489eD8695B5120D64",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.368Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "joinedAt": {
+    "$date": "2024-07-28T11:15:56.000Z"
+  },
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2088248223e6b0c3a4a41"
+  },
+  "address": "0x38c32Ee82C20bD032633F0FB446E17AfDF71fbE7",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T11:23:35.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.401Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b2088a48223e6b0c3a4a44"
+  },
+  "address": "0xCbEebef6e553Da48D4Cc045ae2F87a47238622df",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-07-28T12:04:46.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.434Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b4d2fa98dc187f8be697be"
+  },
+  "address": "0x11c0D013E8A2d4479c491f47a12B1B6510Fd5ADA",
+  "totalBuys": 150,
+  "directBuys": 1010,
+  "joinedAt": {
+    "$date": "2024-08-08T14:14:56.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.468Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x2973Af56Fe6A0FBc575c2D8eA155D6e1259b141f",
+      "_id": {
+        "$oid": "66bc6e2dc23e0fb50a6ccb09"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-09T13:27:44.000Z"
+      }
+    },
+    {
+      "address": "0xc4ff6b4B36a62605D8dEa5328A9eF9fd423c6466",
+      "_id": {
+        "$oid": "66bc6e2dc23e0fb50a6ccb0a"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-10T19:04:22.000Z"
+      }
+    }
+  ],
+  "__v": 77,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66b61a8798dc187f8be697e8"
+  },
+  "address": "0x3d76646460C41c99Bff85A822AD38e40fBcde25e",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-09T13:30:32.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.502Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b7b9c598dc187f8be697f8"
+  },
+  "address": "0xc4ff6b4B36a62605D8dEa5328A9eF9fd423c6466",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-10T19:04:22.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.537Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b95ed298dc187f8be69835"
+  },
+  "address": "0x06e859c2Bbb7a7E1D889d6281392f3B2F76A499e",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-11T16:55:58.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.568Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b95fdf98dc187f8be6983a"
+  },
+  "address": "0xd0fC45c5F5fdfC21eD4AE4277F299B65B93382CD",
+  "totalBuys": 5000,
+  "directBuys": 500,
+  "joinedAt": {
+    "$date": "2024-08-12T01:05:06.000Z"
+  },
+  "rank": "Co-Founder",
+  "rewardGiven": true,
+  "rewardAmount": 100,
+  "rewardAt": {
+    "$date": "2024-08-13T14:04:33.789Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.601Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xFc9337B6389f7828B06dc532144691F9Dd65EA38",
+      "_id": {
+        "$oid": "66bc6a71c23e0fb50a6cb5b3"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-12T01:06:18.000Z"
+      }
+    },
+    {
+      "address": "0x41d8edBd4Ec5cfad51824Ee20809ae68573C359D",
+      "_id": {
+        "$oid": "66bc6a71c23e0fb50a6cb5b4"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-12T01:08:39.000Z"
+      }
+    },
+    {
+      "address": "0x570bE8B764DdD1e9222b37cC9f2d9DE883c890EB",
+      "_id": {
+        "$oid": "66bc6a71c23e0fb50a6cb5b5"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-12T01:10:15.000Z"
+      }
+    },
+    {
+      "address": "0xb72B683F0e4E763C79f387B3812626E097e34DD9",
+      "_id": {
+        "$oid": "66bc6a71c23e0fb50a6cb5b6"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-12T01:11:21.000Z"
+      }
+    },
+    {
+      "address": "0xA7B6834Fb286dC6b947F4C14839e6247a4722338",
+      "_id": {
+        "$oid": "66bc6a71c23e0fb50a6cb5b7"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 1000,
+      "joinedAt": {
+        "$date": "2024-08-12T01:14:00.000Z"
+      }
+    }
+  ],
+  "__v": 77,
+  "level1Buys": 5000
+},
+{
+  "_id": {
+    "$oid": "66b9c4f86d70be75f717e929"
+  },
+  "address": "0x87CbA97f28E5a961Ed7D7751cEA5516bb0Ff7Ad0",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-11T16:49:13.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.637Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c5016d70be75f717e92c"
+  },
+  "address": "0x768A77d872fF00D30b46b454E2C031f5bB5e8fdA",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-11T16:51:07.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.673Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c5096d70be75f717e92f"
+  },
+  "address": "0xEB67Dfd6EDeADCfFC4A6425b14E4Ee6736daE9c7",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-11T16:52:14.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.706Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c5126d70be75f717e932"
+  },
+  "address": "0x85D3eC1E9fC2FCFbEd85bbA49fEC4504d6DeE915",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-11T16:54:34.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.744Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c52e6d70be75f717e93e"
+  },
+  "address": "0xFc9337B6389f7828B06dc532144691F9Dd65EA38",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-12T01:06:18.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.777Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c5376d70be75f717e941"
+  },
+  "address": "0x41d8edBd4Ec5cfad51824Ee20809ae68573C359D",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-12T01:08:39.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.811Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c53f6d70be75f717e944"
+  },
+  "address": "0x570bE8B764DdD1e9222b37cC9f2d9DE883c890EB",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-12T01:10:15.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.842Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c5486d70be75f717e947"
+  },
+  "address": "0xb72B683F0e4E763C79f387B3812626E097e34DD9",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-12T01:11:21.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.877Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c5506d70be75f717e94a"
+  },
+  "address": "0xA7B6834Fb286dC6b947F4C14839e6247a4722338",
+  "totalBuys": 0,
+  "directBuys": 1000,
+  "joinedAt": {
+    "$date": "2024-08-12T01:14:00.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.910Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66b9c6ad6d70be75f717e9a7"
+  },
+  "address": "0x2973Af56Fe6A0FBc575c2D8eA155D6e1259b141f",
+  "totalBuys": 50,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-09T13:27:44.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.943Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x3d76646460C41c99Bff85A822AD38e40fBcde25e",
+      "_id": {
+        "$oid": "66bc6e3fc23e0fb50a6ccb6e"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 50,
+      "joinedAt": {
+        "$date": "2024-08-09T13:30:32.000Z"
+      }
+    }
+  ],
+  "__v": 76,
+  "level1Buys": 50
+},
+{
+  "_id": {
+    "$oid": "66baccf198dc187f8be6987a"
+  },
+  "address": "0x5CA251f3726dD8D54D6440F262E502E409786931",
+  "totalBuys": 1500,
+  "directBuys": 500,
+  "joinedAt": {
+    "$date": "2024-08-13T03:01:56.000Z"
+  },
+  "rank": "Co-Founder",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:07.979Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x6F8FFa48626CF88Ea2B97bE02DAe7Ee9A303Fe8d",
+      "_id": {
+        "$oid": "66bc6b0ac23e0fb50a6cb9a0"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:17:20.000Z"
+      }
+    },
+    {
+      "address": "0xDe8cD111e59149A1623cff84A14626C669Ad5784",
+      "_id": {
+        "$oid": "66bc6b0ac23e0fb50a6cb9a1"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:18:20.000Z"
+      }
+    },
+    {
+      "address": "0x6E1dFC2E303FBb062f1f450EeD01C7B1f295b7B1",
+      "_id": {
+        "$oid": "66bc6b0ac23e0fb50a6cb9a2"
+      },
+      "rank": "Team Leader",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:19:44.000Z"
+      }
+    }
+  ],
+  "__v": 75,
+  "level1Buys": 300
+},
+{
+  "_id": {
+    "$oid": "66bad21698dc187f8be6987f"
+  },
+  "address": "0x6F8FFa48626CF88Ea2B97bE02DAe7Ee9A303Fe8d",
+  "totalBuys": 400,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:17:20.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": true,
+  "rewardAmount": 100,
+  "rewardAt": {
+    "$date": "2024-08-13T14:48:44.299Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.014Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xCa0CA2fc018825a7A0dfD63A78Be2c2283cE1FA0",
+      "_id": {
+        "$oid": "66bc6b1cc23e0fb50a6cba99"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:53:54.000Z"
+      }
+    },
+    {
+      "address": "0x28eC13E1730709dd6ec4877E81033ADE01Ec3EFB",
+      "_id": {
+        "$oid": "66bc6b1cc23e0fb50a6cba9a"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:55:21.000Z"
+      }
+    },
+    {
+      "address": "0x093be9dEeDf7c647c97D4F5ddAe12140b0801263",
+      "_id": {
+        "$oid": "66bc6b1cc23e0fb50a6cba9b"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:56:39.000Z"
+      }
+    },
+    {
+      "address": "0x0dbD2245B21403d0190B797eA9aF48730c092dAc",
+      "_id": {
+        "$oid": "66bc6b1cc23e0fb50a6cba9c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T03:58:15.000Z"
+      }
+    }
+  ],
+  "__v": 75,
+  "level1Buys": 400
+},
+{
+  "_id": {
+    "$oid": "66bad25b98dc187f8be69882"
+  },
+  "address": "0x6E1dFC2E303FBb062f1f450EeD01C7B1f295b7B1",
+  "totalBuys": 400,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:19:44.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": true,
+  "rewardAmount": 100,
+  "rewardAt": {
+    "$date": "2024-08-14T05:00:53.062Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.050Z"
+  },
+  "level1Users": [
+    {
+      "address": "0xC25efb23111EF1832748194e7A735BF04e8D5733",
+      "_id": {
+        "$oid": "66bc6bc0c23e0fb50a6cbfb0"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:20:40.000Z"
+      }
+    },
+    {
+      "address": "0x0808e52605b74E4ee7CDBebE629f8CC2bc83A4A9",
+      "_id": {
+        "$oid": "66bc6bc0c23e0fb50a6cbfb1"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:21:46.000Z"
+      }
+    },
+    {
+      "address": "0xf8B426F3517436B0b12f8f51cdd6EAe2d1B127D9",
+      "_id": {
+        "$oid": "66bc6bc0c23e0fb50a6cbfb2"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:22:46.000Z"
+      }
+    },
+    {
+      "address": "0x4B57447A0bdaeA8EADCdEC192Fa2544C5cdceC97",
+      "_id": {
+        "$oid": "66bc6bc0c23e0fb50a6cbfb3"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:23:49.000Z"
+      }
+    }
+  ],
+  "__v": 50,
+  "level1Buys": 400
+},
+{
+  "_id": {
+    "$oid": "66badc7498dc187f8be6988b"
+  },
+  "address": "0xDe8cD111e59149A1623cff84A14626C669Ad5784",
+  "totalBuys": 400,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:18:20.000Z"
+  },
+  "rank": "Team Leader",
+  "rewardGiven": true,
+  "rewardAmount": 100,
+  "rewardAt": {
+    "$date": "2024-08-14T05:00:53.133Z"
+  },
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.088Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x4fB67518C36680d5027cc7A315F8d671D3D2b004",
+      "_id": {
+        "$oid": "66bc6b6ec23e0fb50a6cbc5b"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:13:19.000Z"
+      }
+    },
+    {
+      "address": "0xaACe31fa5aea10e2726da2E9d3bC69f5ea633190",
+      "_id": {
+        "$oid": "66bc6b6ec23e0fb50a6cbc5c"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:14:52.000Z"
+      }
+    },
+    {
+      "address": "0x460c0E10E40755A3CFda832cb944b1Cb31d15ea3",
+      "_id": {
+        "$oid": "66bc6b6ec23e0fb50a6cbc5d"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:15:49.000Z"
+      }
+    },
+    {
+      "address": "0xDa609842F84261842a03f18CE8DD0b14e8ED7cfC",
+      "_id": {
+        "$oid": "66bc6b6ec23e0fb50a6cbc5e"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-13T17:16:46.000Z"
+      }
+    }
+  ],
+  "__v": 50,
+  "level1Buys": 400
+},
+{
+  "_id": {
+    "$oid": "66bb714c0f12a040d5a9c569"
+  },
+  "address": "0x070CaCfEcF3d4bc8b6EFF1bb9095e633E7Ff0FCc",
+  "totalBuys": 0,
+  "directBuys": 50,
+  "joinedAt": {
+    "$date": "2024-08-13T02:25:54.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.124Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bb715c0f12a040d5a9c59c"
+  },
+  "address": "0x8d856A9FC6B69Ead1CEDF419e0326d02058fa717",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T02:50:27.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.157Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bb716c0f12a040d5a9c5cf"
+  },
+  "address": "0xEcAf005a6e5ef69E28d47f90daC20507dA5Ab7f6",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T02:53:39.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.191Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bb71a20f12a040d5a9c7bd"
+  },
+  "address": "0xCa0CA2fc018825a7A0dfD63A78Be2c2283cE1FA0",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:53:54.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.228Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bb71b10f12a040d5a9c7f0"
+  },
+  "address": "0x28eC13E1730709dd6ec4877E81033ADE01Ec3EFB",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:55:21.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.265Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bb71c20f12a040d5a9c823"
+  },
+  "address": "0x093be9dEeDf7c647c97D4F5ddAe12140b0801263",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:56:39.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.298Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bb71d20f12a040d5a9c856"
+  },
+  "address": "0x0dbD2245B21403d0190B797eA9aF48730c092dAc",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T03:58:15.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.333Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc276098dc187f8be698fe"
+  },
+  "address": "0xDEC8D40cC2CBc0ad2d975C16429C4AAc61d5f0b7",
+  "totalBuys": 100,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-14T03:41:07.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.366Z"
+  },
+  "level1Users": [
+    {
+      "address": "0x2235E915C5E8d4E8fb470bA3E75bF16aF5Bb7685",
+      "_id": {
+        "$oid": "66bc696bc23e0fb50a6cb107"
+      },
+      "rank": "Member",
+      "totalTokensBoughtUsd": 100,
+      "joinedAt": {
+        "$date": "2024-08-14T04:00:27.000Z"
+      }
+    }
+  ],
+  "__v": 50,
+  "level1Buys": 100
+},
+{
+  "_id": {
+    "$oid": "66bc2bec98dc187f8be69905"
+  },
+  "address": "0x2235E915C5E8d4E8fb470bA3E75bF16aF5Bb7685",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-14T04:00:27.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.401Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33442bf764073166e239"
+  },
+  "address": "0x4fB67518C36680d5027cc7A315F8d671D3D2b004",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:13:19.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.435Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33532bf764073166e26c"
+  },
+  "address": "0xaACe31fa5aea10e2726da2E9d3bC69f5ea633190",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:14:52.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.467Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33622bf764073166e29f"
+  },
+  "address": "0x460c0E10E40755A3CFda832cb944b1Cb31d15ea3",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:15:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.502Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33712bf764073166e2d2"
+  },
+  "address": "0xDa609842F84261842a03f18CE8DD0b14e8ED7cfC",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:16:46.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.537Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33922bf764073166e3fb"
+  },
+  "address": "0xC25efb23111EF1832748194e7A735BF04e8D5733",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:20:40.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.571Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33a22bf764073166e42e"
+  },
+  "address": "0x0808e52605b74E4ee7CDBebE629f8CC2bc83A4A9",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:21:46.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.607Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33b12bf764073166e461"
+  },
+  "address": "0xf8B426F3517436B0b12f8f51cdd6EAe2d1B127D9",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:22:46.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.641Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+},
+{
+  "_id": {
+    "$oid": "66bc33c02bf764073166e494"
+  },
+  "address": "0x4B57447A0bdaeA8EADCdEC192Fa2544C5cdceC97",
+  "totalBuys": 0,
+  "directBuys": 100,
+  "joinedAt": {
+    "$date": "2024-08-13T17:23:49.000Z"
+  },
+  "rank": "Member",
+  "rewardGiven": false,
+  "rewardAmount": 0,
+  "rewardAt": null,
+  "manualChange": false,
+  "lastUpdated": {
+    "$date": "2024-08-14T17:39:08.674Z"
+  },
+  "level1Users": [],
+  "__v": 0,
+  "level1Buys": 0
+}]
